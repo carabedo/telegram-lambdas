@@ -7,7 +7,7 @@ Como armar un bot de telegram usando lambdas:
 Hablamos con @BotFather creamos un bot `/newbot`y guardamos el `TOKEN`, algo parecido a esto:
 
 ```
-6697623661:AAFyWZD91HiPIeaKmF89iIsxAp9lgmfXXX
+6697623661:AAFyKKK91HiPIeaKm111iIsxAp9lgmfXXX
 ```
 
 ## Ahora creamos una lambda en aws
