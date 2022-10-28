@@ -67,7 +67,7 @@ Si todo sale bien, deberiamos recibir la respuesta:
 ## Finalmente probamos el bot:
 
 
-![](test.png)
+<img src='test.png' width=400>
 
 ## Links:
 
