@@ -15,7 +15,7 @@ Hablamos con @BotFather creamos un bot `/newbot`y guardamos el `TOKEN`, algo par
 - Utilizamos el runtime de `python 3.9` 
 - Y marcamos la opcion `Enable function URLInfo`
 
-En cuerpo de la lmabda vamos a utilizar python:
+En cuerpo de la lambda vamos a utilizar python, para empezar solo hagamos que el bot nos responda con el cuerpo del requests que recibe:
 
 ```python
 import json
