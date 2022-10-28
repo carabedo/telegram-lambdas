@@ -69,6 +69,10 @@ Si todo sale bien, deberiamos recibir la respuesta:
 
 <img src='test.png' width=400>
 
+## Formateando las respuestas:
+
+https://core.telegram.org/bots/api#formatting-options
+
 ## Links:
 
 https://aws.plainenglish.io/develop-your-telegram-chatbot-with-aws-api-gateway-dynamodb-lambda-functions-410dcb1fb58a
